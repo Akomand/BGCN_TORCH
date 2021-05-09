@@ -1,13 +1,9 @@
 # Improving Bayesian Graph Convolutional Networks using Markov Chain Monte Carlo Graph Sampling
-This is the source code for the implementation of "Improving Bayesian Graph Convolutional Networks using Markov Chain Monte Carlo Graph Sampling" (A. Komanduri). This repo contains the code for the modified and enhanced Bayesian GCN for the Node Classification task.
+This is the source code for the implementation of "Improving Bayesian Graph Convolutional Networks using Markov Chain Monte Carlo Graph Sampling" (A. Komanduri). This repo contains the code for the modified and enhanced Bayesian GCN for the node classification task.
 
 
 
 ## Usage
-
-To run our implementation, we provide a Linux-based [Anaconda](https://www.anaconda.com/) environment. If Anaconda is installed, our environment can be imported by running the following command in the root directory of the repository:
-
-`conda env create --file environment_linux.yml`
 
 ### Training and evaluating BGCN-NRWS
 

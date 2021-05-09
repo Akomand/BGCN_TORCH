@@ -1,0 +1,83 @@
+[INFO] - 2021-05-08 20:49:03,327 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 20:49:03,327 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 20:49:03,328 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 20:49:03,373 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 20:51:42,249 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 20:51:42,250 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 20:51:42,250 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 20:51:42,335 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 20:56:48,391 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 20:56:48,392 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 20:56:48,392 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 20:56:48,473 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 20:59:15,987 - Agent - : You have entered CTRL+C.. Wait to finalize in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:119
+[INFO] - 2021-05-08 21:01:35,844 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:01:35,844 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:01:35,844 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:01:35,916 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:03:51,095 - Agent - : You have entered CTRL+C.. Wait to finalize in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:119
+[INFO] - 2021-05-08 21:04:01,861 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:04:01,861 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:04:01,861 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:04:01,877 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:05:47,285 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:05:47,285 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:05:47,286 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:05:47,302 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:08:35,157 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:08:35,158 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:08:35,158 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:08:35,216 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:09:36,523 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:09:36,523 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:09:36,523 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:09:36,578 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:10:26,209 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:10:26,209 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:10:26,209 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:10:26,228 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:11:09,883 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:11:09,884 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:11:09,884 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:11:09,912 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:12:12,216 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:12:12,217 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:12:12,217 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:12:12,276 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:15:29,368 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:15:29,369 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:15:29,369 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:15:29,415 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:18:13,169 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:18:13,169 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:18:13,169 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:18:13,194 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:33:46,168 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:33:46,168 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:33:46,168 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:33:46,216 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:35:06,330 - Agent - : You have entered CTRL+C.. Wait to finalize in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:119
+[INFO] - 2021-05-08 21:35:13,270 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:35:13,270 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:35:13,270 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:35:13,298 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82
+[INFO] - 2021-05-08 21:48:04,281 - root - : Hi, This is root. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:92
+[INFO] - 2021-05-08 21:48:04,281 - root - : After the configurations are successfully processed and dirs are created. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:93
+[INFO] - 2021-05-08 21:48:04,282 - root - : The pipeline of the project will begin now. in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/utils/config.py:94
+[INFO] - 2021-05-08 21:48:04,351 - Agent - : Program will run on *****CPU*****
+ in /Users/akomand/Code/Research/DART/Code/BGCN/BGCN_TORCH/agents/gcn.py:82

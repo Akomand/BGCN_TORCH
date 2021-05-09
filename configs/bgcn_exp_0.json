@@ -23,7 +23,7 @@
   "beta2": 0.999,
   "dropout": 0.5,
 
-  "labels_per_class": 10,
+  "labels_per_class": 5,
   "random_data_partition": true,
 
   "pre_train_epochs": 200,

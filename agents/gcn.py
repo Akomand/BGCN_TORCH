@@ -1,5 +1,5 @@
 """
-Mnist Main agent, as mentioned in the tutorial
+BGCN Main agent
 """
 import numpy as np
 
@@ -41,7 +41,7 @@ class BGCNAgent(BaseAgent):
         super().__init__(config)
 
         # define dataset
-        self.data = Planetoid(root='/tmp/Cora', name="Cora", split='full')
+        self.data = Planetoid(root='/tmp/Cora', name="Cora", split='full', transform=NormalizeFeatures())
         self.dataset = self.data[0]
 
         # define models

@@ -1,5 +1,5 @@
 """
-__author__ = "Hager Rady and Mo'men AbdelRazek"
+__author__ = "Aneesh Komanduri"
 
 Main
 -Capture the config file

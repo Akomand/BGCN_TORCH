@@ -27,25 +27,45 @@ def sample_graph_copying(seed, node_neighbors_dict, labels, epsilon=0.01, set_se
 
     # for each of the nodes we have
     for i in range(N):
-
-        # deg_node_i = len(node_neighbors_dict[i])
-        # # deg_node_i = len(labels_dict[labels[i]])
-        # # sample_node = np.random.choice(node_neighbors_dict[i], 1)[0]
-        # sample_node = np.random.choice(labels_dict[labels[i]], 1)[0]
-        # deg_node_w = len(node_neighbors_dict[sample_node])
-        # deg_node_w = len(labels_dict[labels[sample_node]])
-
-        # pick uniformly in (0,1) if less than 1-e, pick a node
-        # if random.uniform(0, 1) <= min(1, float(deg_node_i) / float(deg_node_w)):
         if random.uniform(0, 1) < 1 - epsilon:
-            # if roll succeeds, pick 1 node at random with the same class that
-            # node i has.
-            # sampled_node = sample_node
             sampled_node = np.random.choice(labels_dict[labels[i]], 1)[0]
-
         else:
             # if roll fails, just use node i
             sampled_node = i
+
+
+
+
+
+        # sampled_node = i
+        #
+        # for t in range(5):
+        #     deg_node_i = len(node_neighbors_dict[i])
+        #     # deg_node_i = len(labels_dict[labels[i]])
+        #     sample_node = np.random.choice(labels_dict[labels[i]], 1)[0]
+        #     # sample_node = np.random.choice(labels_dict[labels[i]], 1)[0]
+        #     deg_node_w = len(node_neighbors_dict[sample_node])
+        #     # deg_node_w = len(labels_dict[labels[sample_node]])
+        #
+        #     # pick uniformly in (0,1) if less than 1-e, pick a node
+        #     if random.uniform(0, 1) <= min(1, float(deg_node_i) / float(deg_node_w)):
+        #     # if random.uniform(0, 1) < 1 - epsilon:
+        #         # if roll succeeds, pick 1 node at random with the same class that
+        #         # node i has.
+        #         sampled_node = sample_node
+        #         # sampled_node = np.random.choice(labels_dict[labels[i]], 1)[0]
+        #
+        #     else:
+        #         # if roll fails, just use node i
+        #         sampled_node = i
+
+
+
+
+
+
+
+
         # print('i', i, 'sampled_node', sampled_node)
         # get row of adj matrix for the node (sampled_node) that we just picked out
         row_index_i = node_neighbors_dict[sampled_node]

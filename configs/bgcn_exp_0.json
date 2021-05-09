@@ -1,0 +1,46 @@
+{
+  "exp_name": "bgcn_exp_0",
+  "agent": "BGCNAgent",
+  "mode": "train",
+
+  "cuda": false,
+  "gpu_device": 0,
+  "seed": 1,
+
+  "some_model_attribute": 0,
+
+  "hidden_dim": 16,
+  "batch_size": 1,
+  "test_batch_size": 1,
+
+  "learning_rate": 0.01,
+  "epsilon": 0.01,
+
+  "momentum": 0.5,
+
+  "weight_decay": 5e-4,
+  "beta1": 0.5,
+  "beta2": 0.999,
+  "dropout": 0.5,
+
+  "labels_per_class": 10,
+  "random_data_partition": true,
+
+  "pre_train_epochs": 200,
+  "weight_collection_epoch": 240,
+  "max_epoch": 300,
+
+  "log_interval": 10,
+
+  "validate_every": 2,
+
+  "checkpoint_file": "bgcn_nrws_model.pth",
+
+  "data_loader": "PlanetoidDataLoader",
+  "data_loader_workers": 2,
+  "pin_memory": true,
+  "async_loading": true,
+
+  "dataset": "Cora",
+  "data_folder": ""
+}

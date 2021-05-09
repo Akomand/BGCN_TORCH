@@ -32,6 +32,7 @@ In our paper, we used the following datasets to evaluate our model under strict 
 <summary>Cora Dataset</summary>
 
 [Link to dataset](https://paperswithcode.com/sota/node-classification-on-cora)
+</details>
 
 <details closed>
 <summary>Citeseer Dataset</summary>

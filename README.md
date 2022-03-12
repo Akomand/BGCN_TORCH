@@ -47,7 +47,7 @@ In our paper, we used the following datasets to evaluate our model under strict 
 If you use our code or think our work is relevant to yours, we encourage you to cite this paper:
 
 ```bibtex
-@INPROCEEDINGS{9679954,
+@INPROCEEDINGS{komandbayesian,
   author={Komanduri, Aneesh and Zhan, Justin},
   booktitle={2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA)}, 
   title={Neighborhood Random Walk Graph Sampling for Regularized Bayesian Graph Convolutional Neural Networks}, 

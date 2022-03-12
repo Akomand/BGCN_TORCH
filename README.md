@@ -47,10 +47,13 @@ In our paper, we used the following datasets to evaluate our model under strict 
 If you use our code or think our work is relevant to yours, we encourage you to cite this paper:
 
 ```bibtex
-@article{komanduri2021bgcn,
-    title = {Improving Bayesian Graph Convolutional Networks using Markov Chain Monte Carlo Graph Sampling},
-    author = {Komanduri, Aneesh},
-    journal = {Scholarworks@UARK},
-    year = {2021}
-}
+@INPROCEEDINGS{9679954,
+  author={Komanduri, Aneesh and Zhan, Justin},
+  booktitle={2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA)}, 
+  title={Neighborhood Random Walk Graph Sampling for Regularized Bayesian Graph Convolutional Neural Networks}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={903-908},
+  doi={10.1109/ICMLA52953.2021.00149}}
 ```
